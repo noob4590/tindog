@@ -110,6 +110,9 @@ h2{
     #title{
         text-align: center;
     }
+    .cta-heading{
+        max-width: 800px;
+    }
     .title-image {
         position: static;
         transform: rotate(0);
